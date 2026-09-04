@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <lhany.QDZP_Label>빠른 처리구역</lhany.QDZP_Label>
+    <lhany.QDZP_Description>처리구역을 프리셋으로 빠르게 지정합니다.</lhany.QDZP_Description>
+
+    <lhany.QDZP_Chunks>덩어리 처리구역</lhany.QDZP_Chunks>
+    <lhany.QDZP_ToxicWastePack>독성 폐기물 처리구역</lhany.QDZP_ToxicWastePack>
+    <lhany.QDZP_Corpse>시체 처리구역</lhany.QDZP_Corpse>
+    <lhany.QDZP_ButcheryStockpile>도축 처리구역</lhany.QDZP_ButcheryStockpile>
+    <lhany.QDZP_Mechanoid>메카노이드 시체 처리구역</lhany.QDZP_Mechanoid>
+    <lhany.QDZP_Structure>포장된 구조물 처리구역</lhany.QDZP_Structure>
+</LanguageData>

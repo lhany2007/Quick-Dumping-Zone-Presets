@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/DesignationCategoryDef[defName="Zone"]/specialDesignatorClasses/li[text()="Designator_ZoneAddStockpile_Dumping"]</xpath>
+    <value>
+      <li>lhany.QuickDumpingZonePresets.QuickDumpingZonePresets</li>
+    </value>
+  </Operation>
+</Patch>

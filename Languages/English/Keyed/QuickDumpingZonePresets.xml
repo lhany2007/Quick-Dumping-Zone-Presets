@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <lhany.QDZP_Label>Quick dumping zone</lhany.QDZP_Label>
+    <lhany.QDZP_Description>Quickly designate a dumping zone with presets.</lhany.QDZP_Description>
+
+    <lhany.QDZP_Chunks>Chunks dumping zone</lhany.QDZP_Chunks>
+    <lhany.QDZP_ToxicWastePack>Toxic wastepack dumping zone</lhany.QDZP_ToxicWastePack>
+    <lhany.QDZP_Corpse>Corpse dumping zone</lhany.QDZP_Corpse>
+    <lhany.QDZP_ButcheryStockpile>Butchery stockpile zone</lhany.QDZP_ButcheryStockpile>
+    <lhany.QDZP_Mechanoid>Mechanoid corpse dumping zone</lhany.QDZP_Mechanoid>
+    <lhany.QDZP_Structure>Packaged structures dumping zone</lhany.QDZP_Structure>
+</LanguageData>
